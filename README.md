@@ -48,10 +48,10 @@ A two-part web project for a beauty parlour business.
 ## 🖼️ Screenshots
 
 ### Home Page
-<img src="screenshots/home.png" width="800">
+<img src="screenshots/Home.png" width="800">
 
-### Login Page
-<img src="screenshots/login.png" width="800">
+### Services Page
+<img src="screenshots/Services.png" width="800">
 
-### Dashboard
-<img src="screenshots/dashboard.png" width="800">
+### Contacts
+<img src="screenshots/Contacts.png" width="800">
