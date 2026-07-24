@@ -44,3 +44,10 @@ A two-part web project for a beauty parlour business.
 - Do not commit `backend/.env` to GitHub.
 - Use `backend/.env.example` as the template for email credentials.
 - The frontend package metadata is managed through `frontend/package.json`.
+
+## Screenshots
+
+Project preview screenshots are stored in the `screenshots/` folder:
+- `screenshots/home.png` — homepage booking section
+- `screenshots/services.png` — services overview
+- `screenshots/contact.png` — contact section
