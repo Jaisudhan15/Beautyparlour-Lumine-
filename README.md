@@ -45,9 +45,13 @@ A two-part web project for a beauty parlour business.
 - Use `backend/.env.example` as the template for email credentials.
 - The frontend package metadata is managed through `frontend/package.json`.
 
-## Screenshots
+## 🖼️ Screenshots
 
-Project preview screenshots are stored in the `screenshots/` folder:
-- `screenshots/home.png` — homepage booking section
-- `screenshots/services.png` — services overview
-- `screenshots/contact.png` — contact section
+### Home Page
+<img src="screenshots/home.png" width="800">
+
+### Login Page
+<img src="screenshots/login.png" width="800">
+
+### Dashboard
+<img src="screenshots/dashboard.png" width="800">
